@@ -1,0 +1,6 @@
+# to jest komentarz
+
+#ignorujmy pliki *.docx
+*.docx
+
+

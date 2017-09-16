@@ -1,0 +1,1 @@
+1. Ten wiersz jest wpisany do pliku po dodaniu go do poczekalny (po add)
